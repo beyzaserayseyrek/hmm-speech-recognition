@@ -20,3 +20,4 @@ Detaylı açıklamalar, analizler ve sonuçlar için rapor dosyasına bakabilirs
 * matplotlib
 * emcee
 * corner
+
